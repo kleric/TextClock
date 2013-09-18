@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TextClockActivity!</string>
+    <string name="app_name">Text Clock</string>
+    <string name="wallpaper_clock">Text Clock</string>
+    <string name="text_clock_settings">Text Clock Settings</string>
+    <string name="clock_settings_title">Settings</string>
+    <string name="clock_settings_summary">Change the theme of the clock.</string>
+    <string-array name="clock_themes">
+        <item>"Default"</item>
+        <item>"Inverted"</item>
+    </string-array>
+    <string-array name="clock_themeprefix">
+        <item>"default"</item>
+        <item>"inverted"</item>
+    </string-array>
+    <string name="description">A Clock with Words!</string>
+
+</resources>
